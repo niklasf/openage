@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+# test
 """
 Openage can, and should, be launched via python3 -m openage.
 
